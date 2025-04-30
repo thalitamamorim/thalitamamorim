@@ -58,5 +58,6 @@ Sobrevivendo ao combo: bugs + deadlines + sono + café. ☕
 
 ---
 
-Para ver as estatísticas do GitHub, acesse meu [GitHub Stats](https://github.com/thalitamamorim).
+Para ver as estatísticas do GitHub, acesse meu [GitHub Stats](https://github.com/thalitamamorim/thalitamamorim-stats).
+
 
