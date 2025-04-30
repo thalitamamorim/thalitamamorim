@@ -1,47 +1,61 @@
-### Olá! Eu sou a Thalita Amorim 👩‍💻
+### Oiê! Eu sou a Thalita Amorim ☕🧠💻
 
-<img align="right" src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="230" alt="Pessoa tomando café e codando">
+<img align="right" src="https://media.giphy.com/media/3oriO7A7bt1wsEP4cw/giphy.gif" width="240" alt="Pessoa animada com café e programação">
 
-Sou graduanda em **Engenharia de Computação** pela **UFMA**, e também estou em constante aprendizado por meio de cursos fora da universidade, como na **Alura** e no projeto **Dev Aprender** do Jhonatan.  
-No momento, meu foco é em **Python**, construindo uma base sólida em programação e boas práticas de desenvolvimento.
+Sou estudante de **Engenharia de Computação** na **UFMA** e estou embarcando de cabeça nesse mundão da programação.  
+Atualmente estudo **Python** e faço cursos por fora para complementar minha formação, incluindo:
+- **Alura** (plataforma de cursos de tecnologia)
+- **Dev Aprender**, com o professor Jhonatan
 
----
-
-#### 💼 Sobre mim:
-- 🎓 Estudante de Engenharia de Computação (UFMA)
-- 📚 Aluna em plataformas como **Alura** e **Dev Aprender**
-- 🐍 Interessada em Python, backend e automações
-- 🎧 Apaixonada por música — minha companheira de estudos
-- ☕ Café e código: rotina básica
-- 🧩 Buscando oportunidades para crescer na área de tecnologia
+Sobrevivendo ao combo: bugs + deadlines + sono + café. ☕
 
 ---
 
-#### 🧠 Atualmente aprendendo:
-- Python (estrutura de dados, OOP, automações)
-- Git e GitHub (versionamento e colaboração)
-- Organização de estudos com projetos práticos
-- Fundamentos sólidos da lógica e algoritmos
+#### 🧠 O que rola por aqui:
+- Explorando o universo Python 🐍
+- Rindo de bugs que viram features (ou quase)
+- Café + Código = 💜
+- Memes? SIM, por favor!
 
 ---
 
-#### 🛠️ Tecnologias e Ferramentas:
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,macos" />
+#### 📚 Atualmente aprendendo:
+- Python com amor e exceções 😅
+- Lógica de programação
+- Como dormir 8h em 2h com fé e café
 
 ---
 
-#### 📫 Como me encontrar:
-- LinkedIn: [linkedin.com/in/thalita-amorim-a10b042a9](https://www.linkedin.com/in/thalita-amorim-a10b042a9/)
-- E-mail: thalita.muniz.amorim@gmail.com
-
----
-
-#### 🎵 Um pouco mais sobre mim:
-> Estudar com uma boa playlist faz parte do meu processo criativo.  
-> E sim, adoro memes — principalmente aqueles que só quem já passou horas debugando entende. 😄
+#### ⚡ Fatos aleatórios:
+- Não vivo sem música estudando
+- O terminal virou meu melhor amigo (e às vezes inimigo 👀)
+- Amo memes. Todos. Não tenho filtro.
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=68D391&center=true&vCenter=true&width=435&lines=Evoluindo+um+commit+de+cada+vez...;Codando+ao+som+de+m%C3%BAsica+e+caf%C3%A9.">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="Debugging like a boss">
 </p>
+
+> “Programar é 10% escrever código e 90% procurar no Google.” — alguém em desespero
+
+---
+
+#### 💼 Contato:
+- [LinkedIn](https://www.linkedin.com/in/thalita-amorim-a10b042a9/)
+- Email: thalita.muniz.amorim@gmail.com
+
+---
+
+#### ⚙️ Ferramentas e tecnologias:
+<img src="https://skillicons.dev/icons?i=python,vscode,git,github,macos" />
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Codando+com+caf%C3%A9+na+veia...;100%+memes+%2C+bugs+e+vit%C3%B3rias.">
+</p>
+
+---
+
+#### Para ver as estatísticas do GitHub, acesse meu [GitHub Stats](https://github.com/thalitaamorim/thalitaamorim-stats).
