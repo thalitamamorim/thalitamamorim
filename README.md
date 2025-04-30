@@ -26,7 +26,7 @@ No momento, meu foco é em **Python**, construindo uma base sólida em programa�
 ---
 
 #### 🛠️ Tecnologias e Ferramentas:
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,macos" />
 
 ---
 
