@@ -2,7 +2,7 @@
 
 <img align="right" src="https://media.giphy.com/media/3oriO7A7bt1wsEP4cw/giphy.gif" width="240" alt="Pessoa animada com café e programação">
 
-Sou estudante de **Ciêcia e Tecnologia** na **UFMA** e estou embarcando de cabeça nesse mundão da programação.  
+Sou estudante de **Ciência e Tecnologia** na **UFMA** e estou embarcando de cabeça nesse mundão da programação.  
 Atualmente estudo **Python** e faço cursos por fora para complementar minha formação, incluindo:
 - **Alura** (plataforma de cursos de tecnologia)
 - **Dev Aprender**, com o professor Jhonatan
