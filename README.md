@@ -22,7 +22,7 @@ Sobrevivendo ao combo: bugs + deadlines + sono + café. ☕
 #### 📚 Atualmente aprendendo:
 - Python com amor e exceções 😅
 - Lógica de programação
-- Como dormir 8h em 2h com fé e café
+- Como dormir 8h em 4h com fé e café
 
 ---
 
