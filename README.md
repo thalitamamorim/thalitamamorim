@@ -6,7 +6,6 @@ Sou estudante de **Ciência e Tecnologia** na **UFMA** e estou embarcando de cab
 Atualmente estudo **Python** e faço cursos por fora para complementar minha formação, incluindo:
 - **Alura** (plataforma de cursos de tecnologia)
 - **Dev Aprender**, com o professor Jhonatan
-- **Dio** (plataforma de cursos de tecnologia)
 
 Sobrevivendo ao combo: bugs + deadlines + sono + café. ☕
 
@@ -70,10 +69,4 @@ Sobrevivendo ao combo: bugs + deadlines + sono + café. ☕
 </p>
 
 ---
-
-### 🏆 Meus Achievements
-
-<div align="center">
-  <img src="https://github-readme-achievements.vercel.app/api?username=thalitamamorim&theme=tokyonight" />
-</div>
 
