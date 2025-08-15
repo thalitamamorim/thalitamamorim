@@ -6,6 +6,7 @@ Sou estudante de **Ciência e Tecnologia** na **UFMA** e estou embarcando de cab
 Atualmente estudo **Python** e faço cursos por fora para complementar minha formação, incluindo:
 - **Alura** (plataforma de cursos de tecnologia)
 - **Dev Aprender**, com o professor Jhonatan
+- **Dio** (plataforma de cursos de tecnologia)
 
 Sobrevivendo ao combo: bugs + deadlines + sono + café. ☕
 
@@ -55,6 +56,7 @@ Sobrevivendo ao combo: bugs + deadlines + sono + café. ☕
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
+---
 
 ## 📊 Minhas Estatísticas no GitHub:
 
@@ -67,6 +69,11 @@ Sobrevivendo ao combo: bugs + deadlines + sono + café. ☕
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thalitamamorim&theme=tokyonight" />
 </p>
 
+---
 
+### 🏆 Meus Achievements
 
+<div align="center">
+  <img src="https://github-readme-achievements.vercel.app/api?username=thalitamamorim&theme=tokyonight" />
+</div>
 
