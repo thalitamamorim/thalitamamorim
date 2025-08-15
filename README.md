@@ -42,21 +42,19 @@ Sobrevivendo ao combo: bugs + deadlines + sono + café. ☕
 ---
 
 #### 💼 Contato:
-- [LinkedIn](https://www.linkedin.com/in/thalita-amorim-a10b042a9/)
-- Email: thalita.muniz.amorim@gmail.com
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalita-amorim-a10b042a9/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](thalita.muniz.amorim@gmail.com)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000000?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/thalitam_amorim)
 
 ---
 
 #### ⚙️ Ferramentas e tecnologias:
-<img src="https://skillicons.dev/icons?i=python,vscode,git,github,macos" />
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Codando+com+caf%C3%A9+na+veia...;100%+memes+%2C+bugs+e+vit%C3%B3rias.">
-</p>
-
----
 
 ## 📊 Minhas Estatísticas no GitHub:
 
