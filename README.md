@@ -6,6 +6,7 @@ Sou estudante de **Ciência e Tecnologia** na **UFMA** e estou embarcando de cab
 Atualmente estudo **Python** e faço cursos por fora para complementar minha formação, incluindo:
 - **Alura** (plataforma de cursos de tecnologia)
 - **Dev Aprender**, com o professor Jhonatan
+- **Dio.me** (plataforma de cursos de tecnologia)
 
 Sobrevivendo ao combo: bugs + deadlines + sono + café. ☕
 
