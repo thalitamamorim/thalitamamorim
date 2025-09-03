@@ -1,73 +1,82 @@
-# Oiê! Eu sou a Thalita Amorim ☕🧠💻
+# Thalita Amorim
 
-<img align="right" src="https://media.giphy.com/media/3oriO7A7bt1wsEP4cw/giphy.gif" width="240" alt="Pessoa animada com café e programação">
-
-Sou estudante de **Ciência e Tecnologia** na **UFMA** e estou embarcando de cabeça nesse mundão da programação.  
-Atualmente estudo **Python** e faço cursos por fora para complementar minha formação, incluindo:
-- **Alura** (plataforma de cursos de tecnologia)
-- **Dev Aprender**, com o professor Jhonatan
-- **Dio.me** (plataforma de cursos de tecnologia)
-
-Sobrevivendo ao combo: bugs + deadlines + sono + café. ☕
+Estudante de **Ciência e Tecnologia** na **UFMA**, com foco em **Engenharia de Computação** e apaixonada por desenvolvimento de software.  
+Busco oportunidades para aplicar meus conhecimentos em **Python, .NET, bancos de dados e desenvolvimento full stack**, aprendendo e contribuindo com projetos de impacto.
 
 ---
 
-#### 🧠 O que rola por aqui:
-- Explorando o universo Python 🐍
-- Rindo de bugs que viram features (ou quase)
-- Café + Código = 💜
-- Memes? SIM, por favor!
+## Sobre mim
+
+- Curiosa, motivada e sempre em busca de novos desafios em tecnologia.  
+- Experiência em resolução de problemas, debugging e lógica de programação.  
+- Sobrevivendo ao combo: bugs + deadlines + sono + café ☕  
 
 ---
 
-#### 📚 Atualmente aprendendo:
-- Python com amor e exceções 😅
-- Lógica de programação
-- Como dormir 8h em 4h com fé e café
+## Tecnologias e Ferramentas
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ---
 
-#### ⚡ Fatos aleatórios:
-- Não vivo sem música estudando
-- O terminal virou meu melhor amigo (e às vezes inimigo 👀)
-- Amo memes. Todos. Não tenho filtro.
+## Formação e Cursos
+
+- **UFMA** – Ciência e Tecnologia (Engenharia de Computação) – cursando  
+- **Alura** – Cursos de desenvolvimento e tecnologia  
+- **Dio.me** – Cursos complementares de desenvolvimento de software  
+- **Dev Aprender** – Aulas práticas com o professor Jhonatan  
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="Debugging like a boss">
-</p>
+## Projetos em Destaque
 
-> “Programar é 10% escrever código e 90% procurar no Google.” — alguém em desespero
+### [Sistema CIS](https://github.com/thalitamamorim/Sistema-CIS)
 
----
+Sistema completo de gestão financeira e operacional para eventos, com controle de caixa, estoque, fornecedores e relatórios administrativos em tempo real.
 
-#### 💼 Contato:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalita-amorim-a10b042a9/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](thalita.muniz.amorim@gmail.com)
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000000?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/thalitam_amorim)
+**Funcionalidades principais:**
 
----
+- **Gestão Financeira:** Controle de Caixa Multi-usuário, pagamentos múltiplos (Dinheiro, PIX, Maquineta), relatórios diários e mensais.  
+- **Gestão de Estoque:** Entrada/saída de produtos, alertas de estoque baixo e vencimento.  
+- **Gestão de Fornecedores:** Cadastro de fornecedores, histórico de compras, relatórios de desempenho.  
 
-#### ⚙️ Ferramentas e tecnologias:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+**Tecnologias utilizadas:** Python, Streamlit, Supabase, SQLite, Git
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub:
+### [Caza](https://github.com/thalitamamorim/Caza)
+
+Aplicativo para gestão de recebimentos, produção e gastos, desenvolvido para otimizar o controle financeiro e operacional de pequenas empresas.
+
+**Funcionalidades principais:**
+
+- **Gestão Financeira:** Controle de recebimentos e despesas, relatórios diários e mensais.  
+- **Gestão de Produção:** Acompanhamento da produção diária, controle de estoque de matérias-primas.  
+- **Gestão de Gastos:** Registro e análise de gastos operacionais por categoria.  
+
+**Tecnologias utilizadas:** Python, Streamlit, Supabase, SQLite, Git
+
+---
+
+## Estatísticas no GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thalitamamorim&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalitamamorim&layout=compact&langs_count=7&theme=radical" />
 </div>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thalitamamorim&theme=tokyonight" />
-</p>
-
 ---
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalita-amorim-a10b042a9/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:thalita.muniz.amorim@gmail.com)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000000?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/thalitam_amorim)
 
