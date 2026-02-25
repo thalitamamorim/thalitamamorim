@@ -1,7 +1,7 @@
 # Thalita Amorim
 
 Estudante de **Ciência e Tecnologia** na **UFMA**, com foco em **Engenharia de Computação** e apaixonada por desenvolvimento de software.  
-Busco oportunidades para aplicar meus conhecimentos em **Python, .NET, bancos de dados e desenvolvimento full stack**, aprendendo e contribuindo com projetos de impacto.
+Busco oportunidades para aplicar meus conhecimentos em **Python, bancos de dados e desenvolvimento full stack**, aprendendo e contribuindo com projetos de impacto.
 
 ---
 
@@ -16,7 +16,6 @@ Busco oportunidades para aplicar meus conhecimentos em **Python, .NET, bancos de
 ## Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
